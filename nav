@@ -1,0 +1,76 @@
+<!--navbar section-->
+    <header class="header_wrapper mb-5">
+        <nav class="navbar navbar-expand-lg navbar-light p-3 fixed-top" style="background-color:rgb(20, 20, 126)">
+            <div class="container">
+                <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navmenu">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <a href="#" class="navbar-brand">
+                    <!--<img src="images/241px-Vignan_logo.png" width="16%" height="16%">--><span class="fw-bold fs-5"
+                        style="color:rgb(248, 244, 244)">
+                        VIGNAN</span>
+                </a>
+                <div class="collapse navbar-collapse" id="navmenu">
+                    <ul class="navbar-nav ms-auto nav-menu">
+                        <li class="nav-item">
+                            <a href="index.html" class="nav-link text-light active">HOME</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link text-light dropdown-toggle" href="#" id="navbarDropdownMenuLink"
+                                role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                STUDY MATERIALS
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="cse_sm.html">CSE</a></li>
+                                <li><a class="dropdown-item" href="ece_sm.html">ECE</a></li>
+                                <li><a class="dropdown-item" href="eee_sm.html">EEE</a></li>
+                                <li><a class="dropdown-item" href="ecm_sm.html">ECM</a></li>
+                                <li><a class="dropdown-item" href="it_sm.html">IT</a></li>
+                                <li><a class="dropdown-item" href="aids_sm.html">AIDS</a></li>
+                                <li><a class="dropdown-item" href="civil_sm.html">CIVIL</a></li>
+                                <li><a class="dropdown-item" href="mech_sm.html">MECH</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link text-light dropdown-toggle" href="#" id="navbarDropdownMenuLink"
+                                role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                MODAL PAPERS
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="cse_mp.html">CSE</a></li>
+                                <li><a class="dropdown-item" href="ece_mp.html">ECE</a></li>
+                                <li><a class="dropdown-item" href="eee_mp.html">EEE</a></li>
+                                <li><a class="dropdown-item" href="ecm_mp.html">ECM</a></li>
+                                <li><a class="dropdown-item" href="it_mp.html">IT</a></li>
+                                <li><a class="dropdown-item" href="aids_mp.html">AIDS</a></li>
+                                <li><a class="dropdown-item" href="civil_mp.html">CIVIL</a></li>
+                                <li><a class="dropdown-item" href="mech_mp.html">MECH</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link text-light dropdown-toggle" href="#" id="navbarDropdownMenuLink"
+                                role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                VIDEO LECTURES
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="cse_vd.html">CSE</a></li>
+                                <li><a class="dropdown-item" href="ece_vd.html">ECE</a></li>
+                                <li><a class="dropdown-item" href="eee_vd.html">EEE</a></li>
+                                <li><a class="dropdown-item" href="ecm_vd.html">ECM</a></li>
+                                <li><a class="dropdown-item" href="it_vd.html">IT</a></li>
+                                <li><a class="dropdown-item" href="aids_vd.html">AIDS</a></li>
+                                <li><a class="dropdown-item" href="civil_vd.html">CIVIL</a></li>
+                                <li><a class="dropdown-item" href="mech_vd.html">MECH</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a href="alumni.html" class="nav-link text-light">ALUMNI</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!--navbar section end-->
